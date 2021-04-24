@@ -18,7 +18,7 @@
 
 产品(难度:20%) + 设计(难度:20%) + 开发(难度:20%) + 运营(难度:40%)
 
-更多独立开发项目参考：[https://mp.weixin.qq.com/s/p5GBhvNyfnxBY8Ie3cxX-g](https://mp.weixin.qq.com/s/p5GBhvNyfnxBY8Ie3cxX-g) ，开源项目可移步↓
+**更多独立开发项目参考**：[https://mp.weixin.qq.com/s/p5GBhvNyfnxBY8Ie3cxX-g](https://mp.weixin.qq.com/s/p5GBhvNyfnxBY8Ie3cxX-g) ，开源项目可移步↓
 
 #### 媒体号
 
