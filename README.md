@@ -5,8 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 
-职业：FE
-事业：独立开发者
+- 职业：`FE`
+- 事业：`独立开发者`
 
 #### 📬 独立开发
 
@@ -25,6 +25,7 @@
 - 前端私塾博客(Blog)：[i7xy.cn](http://i7xy.cn)
 - 掘金: [https://juejin.cn/user/1873223544998494](https://juejin.cn/user/1873223544998494)
 - 小破站：[https://space.bilibili.com/33639420](https://space.bilibili.com/33639420)
+- 微信公众号：Join-fe
 
 ![arley's github stats](https://github-readme-stats.vercel.app/api?username=arleyGuoLei&show_icons=true&hide_border=true)
 
